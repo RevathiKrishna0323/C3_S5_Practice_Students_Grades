@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f61f316-0497-4aef-b9dc-191980bab5a8" name="Changes" comment="changed the source, target JDK versions from 18 to 11 and loaded the maven changes">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="2f61f316-0497-4aef-b9dc-191980bab5a8" name="Changes" comment="created StudentMarks.java in com.marks package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661842414754</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created StudentMarks.java in com.marks package">
+      <created>1661842859315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661842859315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +98,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="changed the language level from 18 to 11." />
     <MESSAGE value="changed the source, target JDK versions from 18 to 11 and loaded the maven changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the source, target JDK versions from 18 to 11 and loaded the maven changes" />
+    <MESSAGE value="created StudentMarks.java in com.marks package" />
+    <option name="LAST_COMMIT_MESSAGE" value="created StudentMarks.java in com.marks package" />
   </component>
 </project>
