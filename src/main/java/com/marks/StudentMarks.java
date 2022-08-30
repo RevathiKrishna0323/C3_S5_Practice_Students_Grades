@@ -20,5 +20,12 @@ public class StudentMarks {
         int sum = 0;
         return sum;
     }
+    //create the calculateMarks() method to calculate marks for non - medical pathway students
+    public int calculateMarks(int maths, int physics, int chemistry) {
+        int totalMarks = 0;
+        return totalMarks;
+    }
+
+
 
 }
