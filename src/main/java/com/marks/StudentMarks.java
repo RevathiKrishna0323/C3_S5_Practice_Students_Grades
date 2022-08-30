@@ -16,19 +16,19 @@ public class StudentMarks {
     int accounting;
 
     //create the calculateMarks() method to calculate marks for medical pathway students
-    public int calculateMarks(int maths, int physics, int chemistry, int biology) {
+    public int calculateMarks1(int maths, int physics, int chemistry, int biology) {
         int sum = 0;
         return sum;
     }
 
     //create the calculateMarks() method to calculate marks for non - medical pathway students
-    public int calculateMarks(int maths, int physics, int chemistry) {
+    public int calculateMarks2(int maths, int physics, int chemistry) {
         int totalMarks = 0;
         return totalMarks;
     }
 
     //create the calculateMarks() method to calculate marks for business pathway students
-    public int calculateMarks(int finance, int accounting) {
+    public int calculateMarks3(int finance, int accounting) {
         int totalMarks = 0;
         return totalMarks;
     }

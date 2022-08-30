@@ -7,4 +7,7 @@
 package com.marks;
 
 public class StudentMarksImpl {
+    // create an object of the class
+    StudentMarks studentMarks = new StudentMarks;
+
 }
