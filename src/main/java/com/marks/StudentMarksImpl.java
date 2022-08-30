@@ -8,6 +8,10 @@ package com.marks;
 
 public class StudentMarksImpl {
     // create an object of the class
-    StudentMarks studentMarks = new StudentMarks;
+    StudentMarks studentMarks = new StudentMarks();
 
+    // call the overloaded calculateMarks1() method
+    public void calculateMarks1() {
+        studentMarks.calculateMarks1(100, 99, 100, 70);
+    }
 }
