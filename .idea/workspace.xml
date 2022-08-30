@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f61f316-0497-4aef-b9dc-191980bab5a8" name="Changes" comment="created StudentMarks.java in com.marks package">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f61f316-0497-4aef-b9dc-191980bab5a8" name="Changes" comment="created calculateMarks(); method">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661842859315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created calculateMarks(); method">
+      <created>1661843973780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661843973780</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created calculateMarks(); method">
+      <created>1661844141102</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661844141102</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +112,7 @@
     <MESSAGE value="changed the language level from 18 to 11." />
     <MESSAGE value="changed the source, target JDK versions from 18 to 11 and loaded the maven changes" />
     <MESSAGE value="created StudentMarks.java in com.marks package" />
-    <option name="LAST_COMMIT_MESSAGE" value="created StudentMarks.java in com.marks package" />
+    <MESSAGE value="created calculateMarks(); method" />
+    <option name="LAST_COMMIT_MESSAGE" value="created calculateMarks(); method" />
   </component>
 </project>
