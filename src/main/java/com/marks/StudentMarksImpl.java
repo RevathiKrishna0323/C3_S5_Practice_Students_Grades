@@ -14,4 +14,10 @@ public class StudentMarksImpl {
     public void calculateMarks1() {
         studentMarks.calculateMarks1(100, 99, 100, 70);
     }
+
+    // call the overloaded calculateMarks2() method
+    public void calculateMarks2() {
+        studentMarks.calculateMarks2(100, 99, 100);
+    }
+
 }
