@@ -20,4 +20,8 @@ public class StudentMarksImpl {
         studentMarks.calculateMarks2(100, 99, 100);
     }
 
+    // call the overloaded calculateMarks3() method
+    public void calculateMarks3() {
+        studentMarks.calculateMarks3(100, 99);
+    }
 }
