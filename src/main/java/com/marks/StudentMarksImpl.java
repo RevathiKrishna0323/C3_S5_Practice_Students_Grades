@@ -12,17 +12,17 @@ public class StudentMarksImpl {
         // create an object of the class
         StudentMarks studentMarks = new StudentMarks();
 
-        // call the overloaded calculateMarks1() method
-        studentMarks.calculateMarks1(100, 99, 100, 70);
+        // call the overloaded calculateMarks() method
+        System.out.println(studentMarks.calculateMarks(100, 99, 100, 70));
 
-        // call the overloaded calculateMarks2() method
+        // call the overloaded calculateMarks() method
 
-        studentMarks.calculateMarks2(100, 99, 100);
+        System.out.println(studentMarks.calculateMarks(100, 99, 79));
 
 
         // call the overloaded calculateMarks3() method
 
-        studentMarks.calculateMarks3(100, 99);
+        System.out.println(studentMarks.calculateMarks(100, 98, 99));
 
     }
 }
