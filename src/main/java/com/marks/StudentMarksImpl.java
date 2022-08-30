@@ -7,21 +7,22 @@
 package com.marks;
 
 public class StudentMarksImpl {
-    // create an object of the class
-    StudentMarks studentMarks = new StudentMarks();
+    public static void main(String[] args) {
 
-    // call the overloaded calculateMarks1() method
-    public void calculateMarks1() {
+        // create an object of the class
+        StudentMarks studentMarks = new StudentMarks();
+
+        // call the overloaded calculateMarks1() method
         studentMarks.calculateMarks1(100, 99, 100, 70);
-    }
 
-    // call the overloaded calculateMarks2() method
-    public void calculateMarks2() {
+        // call the overloaded calculateMarks2() method
+
         studentMarks.calculateMarks2(100, 99, 100);
-    }
 
-    // call the overloaded calculateMarks3() method
-    public void calculateMarks3() {
+
+        // call the overloaded calculateMarks3() method
+
         studentMarks.calculateMarks3(100, 99);
+
     }
 }
